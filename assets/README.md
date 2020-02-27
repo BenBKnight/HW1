@@ -1,0 +1,8 @@
+The first bug that I came across was the button for "search engine optimization" was not working. The reason it was not working was that it was missing the ID tag at that div. 
+Second thing I noticed was that there was a lot of classes and id's that made the same changes. I condensed everything that repeated into one id or class. For example, I condensed the classes: search-engine-optimization, online-reputation-optimization, and social-media-marketing into a single class of format. I chose this because in this particular case, these classes were formating the bulk of the page, and it was only a single page. 
+I did the same, as above, to the images in the body, headers, and images on the side. I broke a lot along the way, but ended with working css in about half of the syntax.
+I changed the title of the webpage to the name of the company, and added alts to all the images. 
+Changed spacing of lines. I'm not sure what industry standard is, but I like the ability to look at syntax and immeditatly see where and what sections are included in a tag. For example, I gave an empty line before each div tag. Now by just looking at the lines of code, each block sticks out to the eye a little easier. I also tried to make most of the syntax only extend so far into the page, so that the bottom scroll bar didn't have to be used very much if at all. I also prefer when open and close tags are inline with eachother, so that I can track each one to its pair. 
+Changed class=header to element "header".
+Changed many small div tags to section and footer.
+Changed corilating css tags to match updated syntax. 
